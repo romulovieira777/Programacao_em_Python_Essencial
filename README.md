@@ -1,2 +1,5 @@
-# Programacao_em_Python_Essencial
-Curso de Programação em Python Essencial na Udmey
+# Programacao em Python Essencial
+### Curso de Programação em Python Essencial na Udmey
+#### :computer: Temas abordados durante o curso foram::boom:
+- Apresentação
+- Preparando o Ambiente
