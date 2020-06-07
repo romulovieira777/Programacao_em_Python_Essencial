@@ -3,3 +3,4 @@
 #### :computer: Temas abordados durante o curso foram::boom:
 - Apresentação
 - Preparando o Ambiente
+- Introdução á Linguagem Python
