@@ -4,3 +4,4 @@
 - Apresentação
 - Preparando o Ambiente
 - Introdução á Linguagem Python
+- Variáveis e Tipos de Dados em Python.
