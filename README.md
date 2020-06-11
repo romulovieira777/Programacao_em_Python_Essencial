@@ -6,3 +6,4 @@
 - Introdução á Linguagem Python
 - Variáveis e Tipos de Dados em Python.
 - Estruturas Lógicas e Condicionais em Python.
+- Estruturas de Repetições em Python.
