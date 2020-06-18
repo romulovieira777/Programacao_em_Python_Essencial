@@ -8,3 +8,4 @@
 - Estruturas Lógicas e Condicionais em Python.
 - Estruturas de Repetições em Python.
 - Coleções em Python.
+- Funções em Python.
