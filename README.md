@@ -9,3 +9,6 @@
 - Estruturas de Repetições em Python.
 - Coleções em Python.
 - Funções em Python.
+- Comprehensions em Python.
+- Expressões Lambdas.
+- Funções Integradas.
