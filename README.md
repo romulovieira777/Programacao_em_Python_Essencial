@@ -12,3 +12,4 @@
 - Comprehensions em Python.
 - Expressões Lambdas.
 - Funções Integradas.
+- Debugando e Tratando Erros.
