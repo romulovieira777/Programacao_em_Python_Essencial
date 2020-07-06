@@ -13,3 +13,4 @@
 - Expressões Lambdas.
 - Funções Integradas.
 - Debugando e Tratando Erros.
+- Módulos.
