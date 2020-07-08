@@ -14,3 +14,13 @@
 - Funções Integradas.
 - Debugando e Tratando Erros.
 - Módulos.
+- Leitura e Escrita em Arquivos.
+- Iteradores e Geradores.
+- Decoradores.
+- Orientação a Objetos.
+- Herança e Polimorfismo.
+- Manipulando Arquivos CSV e JSON.
+- Data e Hora.
+- Testes.
+- Gerenciamento de Memória.
+- Checagem de Tipos.
