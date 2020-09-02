@@ -1,0 +1,5 @@
+number_01 = int(input('Informe o primeiro número: '))
+number_02 = int(input('Informe o segundo número: '))
+number_03 = int(input('Informe o terceiro número: '))
+soma = (number_01 + number_02 + number_03)
+print(f'A soma dos valores foi de {soma}')
