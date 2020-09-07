@@ -1,4 +1,4 @@
-# Programacao em Python Essencial
+# Programação em Python Essencial
 ### Curso de Programação em Python Essencial na Udmey
 #### :computer: Temas abordados durante o curso foram::boom:
 - [Apresentação.](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2001%20-%20Apresenta%C3%A7%C3%A3o)
