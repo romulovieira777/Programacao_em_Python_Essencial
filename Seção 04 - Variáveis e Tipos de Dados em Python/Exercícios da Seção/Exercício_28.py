@@ -1,3 +1,8 @@
+"""
+28) Faça a leitura de três valores e apresente como resultado a
+soma dos quadrados dos três valores lidos.
+"""
+
 number_1 = int(input('Enter the value: '))
 number_2 = int(input('Enter the value: '))
 number_3 = int(input('Enter the value: '))

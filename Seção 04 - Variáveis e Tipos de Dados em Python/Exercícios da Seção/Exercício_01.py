@@ -1,2 +1,6 @@
-number = int(input('Insira um número: '))
-print(f'O número digitado foi {number}')
+"""
+1) Faça um programa que leia um número inteiro e o imprima
+"""
+
+number = int(input('Enter a number: '))
+print(f'The number entered was {number}')

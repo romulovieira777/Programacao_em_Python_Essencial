@@ -1,3 +1,7 @@
+"""
+48) Leia um valor inteiro em segundos, e imprima-o em horas, minutos e segundos
+"""
+
 seconds = int(input('Enter the value in seconds: '))
 hours = seconds // 3600
 minutes = (seconds - (hours * 3600)) // 60

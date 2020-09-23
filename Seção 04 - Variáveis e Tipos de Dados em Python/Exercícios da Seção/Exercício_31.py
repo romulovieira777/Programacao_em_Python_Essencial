@@ -1,3 +1,7 @@
+"""
+31) Leia um número inteiro e imprima o seu antecessor e o seu sucessor.
+"""
+
 number = int(input('Enter the whole number: '))
 predecessor = number - 1
 successor = number + 1

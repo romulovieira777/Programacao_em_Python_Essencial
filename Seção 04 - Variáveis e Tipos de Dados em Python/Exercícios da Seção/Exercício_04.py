@@ -1,3 +1,7 @@
-number = int(input('Informe o número: '))
+"""
+4) Leia um número real e imprima o resultado do quadrado desse número.
+"""
+
+number = int(input('Enter the number: '))
 square = round(pow(number, 2), 2)
-print(f'{number} elevado ao quadrado é {square}')
+print(f'{number} squared is {square}')

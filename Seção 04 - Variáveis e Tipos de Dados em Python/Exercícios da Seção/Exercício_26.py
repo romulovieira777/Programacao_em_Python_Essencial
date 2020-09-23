@@ -1,3 +1,9 @@
+"""
+26) Leia um valor de área em metros quadrados m² e apresente-o convertido
+em hectares. A fórmula de conversão é: H = M * 0.0001, sendo M a área em
+metros quadrados e H a área em hectares
+"""
+
 square_meters = float(input('Enter the value in square meters: '))
 acre = round(square_meters * 0.0001, 2)
 print(f'The value of {square_meters} square meters for acre is {acre}!')
