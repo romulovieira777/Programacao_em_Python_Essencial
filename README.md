@@ -24,3 +24,5 @@
 - Testes.
 - Gerenciamento de Memória.
 - Checagem de Tipos.
+
+Link para o curso: https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/
