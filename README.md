@@ -9,7 +9,7 @@
 - [Seção 06 - Estruturas de Repetições em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20em%20Python)
 - [Seção 07 - Coleções Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2007%20-%20Cole%C3%A7%C3%B5es%20Python)
 - [Seção 08 - Funções em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2008%20-%20Fun%C3%A7%C3%B5es%20em%20Python)
-- Comprehensions em Python.
+- [Seção 09 - Comprehensions em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2009%20-%20Comprehensions%20em%20Python)
 - Expressões Lambdas.
 - Funções Integradas.
 - Debugando e Tratando Erros.
