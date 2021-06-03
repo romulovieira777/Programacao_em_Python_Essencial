@@ -11,7 +11,7 @@
 - [Seção 08 - Funções em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2008%20-%20Fun%C3%A7%C3%B5es%20em%20Python)
 - [Seção 09 - Comprehensions em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2009%20-%20Comprehensions%20em%20Python)
 - [Seção 10 - Expressões Lambdas e Funções Integradas](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2010%20-%20Epress%C3%B5es%20Lambdas%20e%20Fun%C3%A7%C3%B5es%20Integradas)
-- Debugando e Tratando Erros
+- [Seção 11 - Debugando e Tratando Erros](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2011%20-%20Debugando%20e%20Tratando%20Erros)
 - Módulos
 - Leitura e Escrita em Arquivos
 - Iteradores e Geradores
