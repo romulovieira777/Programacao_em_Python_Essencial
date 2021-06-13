@@ -14,7 +14,7 @@
 - [Seção 11 - Debugando e Tratando Erros](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2011%20-%20Debugando%20e%20Tratando%20Erros)
 - [Seção 12 - Trabalhando com Módulos Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2012%20-%20Trabalhando%20com%20M%C3%B3dulos%20Python)
 - [Seção 13 - Leitura e Escrita em Arquivos](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2013%20-%20Leitura%20e%20Escrita%20em%20Arquivos)
-- Iteradores e Geradores
+- [Seção 14 - Iteradores e Geradores Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2014%20-%20Iteradores%20e%20Geradores%20Python)
 - Decoradores
 - Orientação a Objetos
 - Herança e Polimorfismo
