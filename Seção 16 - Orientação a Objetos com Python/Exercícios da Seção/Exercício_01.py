@@ -20,7 +20,6 @@ class Pessoa:
                 if not (type(idade) == bool) and not(type(altura) == bool):
                     if not (type(idade) == float):
                         if int(idade) >= 0 and float(altura) > 0:
-
                             self.__idade = int(idade)
                             self.__altura = float("{:.2f}".format(float(altura)))
 
