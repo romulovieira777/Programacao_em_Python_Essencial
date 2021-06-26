@@ -19,7 +19,7 @@
 - [Seção 16 - Orientação a Objetos com Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2016%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20Python)
 - [Seção 17 - Herança e Polimorfismo](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2017%20-%20Heran%C3%A7a%20e%20Polimorfismo)
 - [Seção 18 - Manipulando Arquivos CSV e JSON](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2018%20-%20Manipulando%20Arquivos%20CSV%20e%20JSON)
-- Data e Hora
+- [Seção 19 - Trabalhando com Data e Hora em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2019%20-%20Trabalhando%20com%20Data%20e%20Hora%20em%20Python)
 - Testes
 - Gerenciamento de Memória
 - Checagem de Tipos
