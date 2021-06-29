@@ -20,7 +20,7 @@
 - [Seção 17 - Herança e Polimorfismo](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2017%20-%20Heran%C3%A7a%20e%20Polimorfismo)
 - [Seção 18 - Manipulando Arquivos CSV e JSON](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2018%20-%20Manipulando%20Arquivos%20CSV%20e%20JSON)
 - [Seção 19 - Trabalhando com Data e Hora em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2019%20-%20Trabalhando%20com%20Data%20e%20Hora%20em%20Python)
-- [seção 20 - Testes com Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/se%C3%A7%C3%A3o%2020%20-%20Testes%20com%20Python)
+- [Seção 20 - Testes com Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/se%C3%A7%C3%A3o%2020%20-%20Testes%20com%20Python)
 - [Seção 21 - Encerramento](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2021%20-%20Encerramento)
 - [Seção 22 - Gerenciamento de Memória em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2022%20-%20Gerenciamento%20de%20Mem%C3%B3ria%20em%20Python)
 - Checagem de Tipos
