@@ -24,5 +24,6 @@
 - [Seção 21 - Encerramento](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2021%20-%20Encerramento)
 - [Seção 22 - Gerenciamento de Memória em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2022%20-%20Gerenciamento%20de%20Mem%C3%B3ria%20em%20Python)
 - [Seção 23 - Checagem de Tipos em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2023%20-%20Checagem%20de%20Tipos%20em%20Python)
+- [Seção 24 - Novidades do Python 3.8]()
 
 Link para o curso: [Udemy](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
