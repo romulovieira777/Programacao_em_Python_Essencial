@@ -26,5 +26,6 @@
 - [Seção 23 - Checagem de Tipos em Python](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2023%20-%20Checagem%20de%20Tipos%20em%20Python)
 - [Seção 24 - Novidades do Python 3.8](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2024%20-%20Novidades%20do%20Python%203.8)
 - [Seção 25 - Projeto Python 1 - Game](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2025%20-%20Projeto%20Python%201%20-%20Game)
+- [Seção 26 - Projeto Python 2 - Mercado](https://github.com/romulovieira777/Programacao_em_Python_Essencial/tree/master/Se%C3%A7%C3%A3o%2026%20-%20Projeto%20Python%202%20-%20Mercado)
 
 Link para o curso: [Udemy](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
